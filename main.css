@@ -1,0 +1,23 @@
+body {
+    font-family: 'Sentinel SSm A', 'Sentinel SSm B', 'Open Sans', sans-serif;
+    font-size: 0.8rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 800;
+}
+
+.card {
+    margin: 5px;
+}
+.card-header {
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.bg-gray {
+    background-color: #636569;
+    color: white;
+}
+
+
