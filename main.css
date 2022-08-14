@@ -9,10 +9,16 @@ h1, h2, h3, h4, h5, h6 {
 
 .card {
     margin: 5px;
+    border-style: none;
 }
 .card-header {
     font-weight: bold;
     font-size: 0.9rem;
+}
+
+.card-body {
+    color:black;
+    background-color: white;
 }
 
 .bg-gray {
