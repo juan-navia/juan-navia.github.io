@@ -1,8 +1,7 @@
 body {
-    font-family: 'Sentinel SSm A', 'Sentinel SSm B', 'Open Sans', sans-serif;
+    font-family: "Merriweather", sans-serif;
     font-size: 0.9rem;
-    background-image : linear-gradient(rgba(121, 39, 245, 0), rgba(7, 7, 7, 1)),
-                       linear-gradient(rgba(7, 7, 7, 1), rgba(121, 39, 245, 0)),
+    background-image : linear-gradient(rgba(7, 7, 7, 0.8), rgba(7, 7, 7, 0.8)),
                        url("images/philipp-trubchenko-jObj_p885Gg-unsplash.jpg");
     background-size: cover;
 }
