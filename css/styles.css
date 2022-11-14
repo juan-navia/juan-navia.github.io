@@ -5574,6 +5574,7 @@ textarea.form-control-lg {
 .modal-title {
   margin-bottom: 0;
   line-height: 1.5;
+  align-text:center;
 }
 
 .modal-body {
@@ -11482,7 +11483,7 @@ html {
 }
 
 .portfolio-modal .btn-close {
-  color: #1abc9c;
+  color: #FFFFFF;
   font-size: 2rem;
   padding: 1rem;
 }
@@ -11525,4 +11526,34 @@ html {
 .bg-indigo {
     background-color: #6610f2;
     color: white;
+}
+
+.bg-baby-blue {
+    background-color: #DCE5FD;
+    color: #0C2D48;
+}
+
+.bg-dark-blue {
+    background-color: #050A30;
+    color: white;
+}
+
+.bg-midnight-blue {
+    background-color: #0C2D48;
+    color: white;
+}
+
+.text-dark-blue {
+  color: #0C2D48;
+}
+
+.btn-blue {
+  color: #fff;
+  background-color: #0C2D48;
+  border-color: #000C66;
+}
+.btn-blue:hover {
+  color: #fff;
+  background-color: #145DA0;
+  border-color: #233240;
 }
