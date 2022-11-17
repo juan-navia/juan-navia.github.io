@@ -4687,7 +4687,7 @@ textarea.form-control-lg {
 }
 .accordion-button:not(.collapsed) {
   color: #050A30;
-  background-color: #DCE5FD;
+  background-color: #EFDCF9;
   box-shadow: inset 0 -0.125rem 0 rgba(0, 0, 0, 0.125);
 }
 .accordion-button:not(.collapsed)::after {
@@ -4754,7 +4754,7 @@ textarea.form-control-lg {
 
 .accordion-body {
   padding: 1rem 1.25rem;
-  color: #0C2D48;
+  color: #0E050F;
 }
 
 .accordion-flush .accordion-collapse {
@@ -11530,8 +11530,8 @@ html {
 }
 
 .bg-baby-blue {
-    background-color: #DCE5FD;
-    color: #0C2D48;
+    background-color: #EFDCF9;
+    color: #0E050F;
 }
 
 .bg-dark-blue {
@@ -11540,21 +11540,21 @@ html {
 }
 
 .bg-midnight-blue {
-    background-color: #0C2D48;
+    background-color: #341948;
     color: white;
 }
 
 .text-dark-blue {
-  color: #0C2D48;
+  color: #0E050F;
 }
 
 .btn-blue {
   color: #fff;
-  background-color: #0C2D48;
+  background-color: #341948;
   border-color: #000C66;
 }
 .btn-blue:hover {
   color: #fff;
-  background-color: #145DA0;
+  background-color: #9388A2;
   border-color: #233240;
 }
