@@ -4717,7 +4717,7 @@ textarea.form-control-lg {
   z-index: 3;
   border-color: #8ddece;
   outline: 0;
-  box-shadow: 0 0 0 0.25rem rgba(26, 188, 156, 0.25);
+  box-shadow: 0 0 0 0.25rem rgba(0, 0, 255, 0.25);
 }
 
 .accordion-header {
@@ -4754,7 +4754,7 @@ textarea.form-control-lg {
 
 .accordion-body {
   padding: 1rem 1.25rem;
-  color: #274472;
+  color: #0C2D48;
 }
 
 .accordion-flush .accordion-collapse {
